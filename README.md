@@ -24,9 +24,9 @@ This program converts your facial expression into corresponding facial emoji. Th
 
 <h2> Steps </h2>
 
-1- Firstly run face_recorder.py. This will save the customized faces for each emoji into their corresponding labelled folder. Total number of required training images for an emoji is 450 so while executing face_recorder.py the emoji number will automatically itterate on completion of clicking of 450 images.<br>
-2- Then run dataset_creator.py to create train and test image dataset.<br>
-3- Then run training_model.py to create prediction model.<br>
-4- Finally run run.py to convert your real time facial expresiion into emoji.<br>
+1- Firstly run face_recorder.py. This will save the customized faces for each emoji into their corresponding labelled folder. Total number of required training images for an emoji is 450 so while executing face_recorder.py the emoji number will automatically itterate on completion of clicking of 450 images.<br><br>
+2- Then run dataset_creator.py to create train and test image dataset.<br><br>
+3- Then run training_model.py to create prediction model.<br><br>
+4- Finally run run.py to convert your real time facial expresiion into emoji.<br><br>
 5- There is also a file named mask.py which contains the algorithm to mask out required landmarks from the face.   
 
