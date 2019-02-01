@@ -22,7 +22,7 @@ This program converts your facial expression into corresponding facial emoji. Th
 5-imutils </br> 
 6-shape_predictor_68_face_landmarks.dat
 
-<h2> Steps </h2.
+<h2> Steps </h2>
 
 1- Firstly run face_recorder.py. This will save the customized faces for each emoji into their corresponding labelled folder. Total number of required training images for an emoji is 450 so while executing face_recorder.py the emoji number will automatically itterate on completion of clicking of 450 images.<br>
 2- Then run dataset_creator.py to create train and test image dataset.<br>
