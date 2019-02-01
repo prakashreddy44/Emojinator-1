@@ -1,6 +1,6 @@
 # EMOJIANTOR 
-</br><h3>
-This program converts your facial expression into corresponding facial emoji. The model is trained on 450 images of customized faces for each emoji.Right now it supports the following 5 emojis :- <br></h3>
+<h4>
+This program converts your facial expression into corresponding facial emoji. The model is trained on 450 images of customized faces for each emoji.Right now it supports the following 5 emojis :- <br></h4>
 <h2>
 1 - 🙂 <br>
 2 - 🤫 <br>
