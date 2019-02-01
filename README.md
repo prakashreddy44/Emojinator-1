@@ -1,4 +1,10 @@
-<h3> <b>EMOJIANTOR (Converts your facial expression to corresponding facial emoji) <b> <h3>
-  
+# EMOJIANTOR 
+</br>
+This program converts your facial expression into corresponding facial emoji. Right now it support following 5 emojis :- <br>
+🙂 <br>
+🤫 <br>
+😉 <br>
+😀 <br>
+😑 <br>
 
-
+4-
