@@ -1,15 +1,15 @@
 # EMOJIANTOR 
-</br>
-This program converts your facial expression into corresponding facial emoji. The model is trained on 450 images of customized faces for each emoji.Right now it supports the following 5 emojis :- <br>
+</br><h3>
+This program converts your facial expression into corresponding facial emoji. The model is trained on 450 images of customized faces for each emoji.Right now it supports the following 5 emojis :- <br></h3>
 <h2>
 1 - 🙂 <br>
 2 - 🤫 <br>
 3 - 😉 <br>
 4 - 😀 <br>
-5 - 😑 <br>
+5 - 😑 <br></h2>
 
 
-<b>NOTE:-</b> The model is trained on the dataset on my face. So it is suggested to recreate dataset by running face_recorder.py.<br></h2><br>
+<h3><b>NOTE:-</b> The model is trained on the dataset on my face. So it is suggested to recreate dataset by running face_recorder.py.<br></h3><br>
 <h2>Demo</h2>
 <img src="https://github.com/pranavmicro7/Emojinator/blob/master/outputs/gif.gif"><br>
 
