@@ -11,7 +11,7 @@ This program converts your facial expression into corresponding facial emoji. Th
 <h2>Demo</h2>
 <img src="https://github.com/pranavmicro7/Emojinator/blob/master/outputs/gif.gif"><br>
 
-<h4><b>NOTE:-</b> The model is trained on the dataset on my face. So it is suggested to recreate dataset by running face_recorder.py.<br></h4><br>
+<h4><i>NOTE: The model is trained on the dataset on my face. So it is suggested to recreate dataset by running face_recorder.py.</i></h4><br>
 
 <h2> Installations/Requirements</h2>
 <h4>
