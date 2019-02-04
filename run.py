@@ -23,7 +23,8 @@ for emoji in range(len(os.listdir(emojis_folder))):
     print(emoji)
     emojis.append(cv2.imread(emojis_folder+str(emoji)+'.png'))
 
-cap=cv2.VideoCapture('http://192.168.43.1:8080/video')
+#cap=cv2.VideoCapture('http://192.168.43.1:8080/video')  
+cap=cv2.VideoCapture(0)
 while True:
  _,img=cap.read() 
  real=img  
